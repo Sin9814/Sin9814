@@ -8,15 +8,6 @@
 
 ---
 
-### by the numbers
-
-| | |
-|---|---|
-| **72%** latency reduction | **1M+** weekly query executions |
-| **100+** airport locations served | **<200ms** avg API response time |
-
----
-
 ### stack
 
 **Backend**
