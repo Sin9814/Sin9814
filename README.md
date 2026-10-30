@@ -4,7 +4,7 @@
 
 ---
 
-2+ years at **TCS** working on high-stakes backend systems — aviation compliance (DGCA/BCAS), airport access control for 100+ locations. I like chasing down slow queries and making them fast. Like, **17.9s → 4.9s** fast.
+3 years at **TCS** working on high-stakes backend systems — aviation compliance (DGCA/BCAS), airport access control for 100+ locations. I like chasing down slow queries and making them fast. Like, **17.9s → 4.9s** fast.
 
 ---
 
